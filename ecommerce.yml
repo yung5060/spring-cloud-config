@@ -4,3 +4,4 @@ token:
 
 gateway:
   ip: 172.29.57.123
+  port: 8000
