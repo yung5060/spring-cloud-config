@@ -3,5 +3,6 @@ token:
   secret: user_token
 
 gateway:
-  ip: 172.29.57.123
+  #  ip: 172.29.57.123
+  ip: 127.0.0.1
   port: 8000
