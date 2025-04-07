@@ -7,3 +7,10 @@ order_service:
 
 gateway:
   ip: 172.18.0.3
+
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://mariadb:3306/mydb
+    username: root
+    password: '{cipher}AQBgv2me+++oDu2iB9EFrKruwCJNaLECq+hl6JF9RqhXjH97S+hf5cuXZwhjyhnnna+iDCZ/tnRnDpGqbxIm+dIfAlV95V6HHL04kgXaCFAKdIFbDzrFaZVd37ikhDQQhLykPd4GhqEuil8kNCIuYpjPQsApKqVbjIrwCsYRP/lWK8AEF+DfZg5isHLpKnKuC88mgKajjKliyr+Xbcq1hB0tqKOYepXLaEtcVQd73MNxnTdlRARbNfAkDnMMBlpUr4GMQN3F0OKGUbobgqDBSvpahUwf3UaK05yK4VN/NmwFCqxFJY/tzwYh2kmNYX5j78LPp33cS6tIhHW8EC693bKEiOE7j39X/Qr2kh8BoxZEZI5XjpHIXoT1BQW3rkY76nA='
