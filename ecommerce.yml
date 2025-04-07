@@ -3,4 +3,4 @@ token:
   secret: native-ecommerce-secret
 
 gateway:
-  ip: 172.18.0.3 
+  ip: 172.18.0.10

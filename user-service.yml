@@ -8,7 +8,7 @@ order_service:
     orders_is_emtpy: "There is no item."
 
 gateway:
-  ip: 172.18.0.3
+  ip: 172.18.0.10
 
 spring:
   datasource:
